@@ -29,13 +29,6 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 - Launch **Autopsy** and **Run as a administrator**  
 - Click **Create New Case**.  
 
-![dfdi1](https://github.com/user-attachments/assets/f654bd06-10fe-4f99-940b-8de796ed8024)
-- Enter a **Case Name** (e.g., `Autopsy1`).  
-- Choose a **Case Folder** location.  
-- Click **Next** → Click **Finish**.  
-![dfdi2](https://github.com/user-attachments/assets/add84cc9-66ba-48e8-9a3a-bf078f9b6b43)
-
-
 
 ### **Add the Virtual Disk as an Evidence Source**  
 - Click **Add Data Source**  → **Select Host**
