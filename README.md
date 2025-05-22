@@ -1,6 +1,4 @@
 # Using-the-Autopsy-retrieve-the-deleted-files
-### Name : syed huzaif
-### Reg : 212224240166
 ## AIM:
 To use Autopsy in Kali Linux to retrieve and analyze deleted files from a disk image.
 
