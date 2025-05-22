@@ -70,17 +70,18 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
-![dfdi6](https://github.com/user-attachments/assets/de8d34bb-c084-4137-8039-dca5622ad450)
+![image](https://github.com/user-attachments/assets/23e4b226-b6e5-409b-af45-ef8094c908a5)
+
 
 
 
 ## OUTPUT:
 ## Folder before deleting the files
-![image](https://github.com/user-attachments/assets/13db3360-423f-4a1b-b5b3-e9902b849533)
-## Folder after deleting the files
-![image](https://github.com/user-attachments/assets/279d61f8-b3b1-4c85-b8fb-f1b969980c42)
+![image](https://github.com/user-attachments/assets/bf1668bb-f665-4bea-a45f-fdcf31f29168)
+
 ## Foldet after extracting the deleted images using autopsy
-![image](https://github.com/user-attachments/assets/ffe1fc06-74c4-4037-a4a3-10f04eb583c5)
+![image](https://github.com/user-attachments/assets/bcbc6cfc-aa33-486e-906e-be4e9546c4cc)
+
 
 
 ## RESULT:
